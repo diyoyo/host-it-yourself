@@ -1,0 +1,8 @@
+services:
+  habitica-images:
+    container_name: ${NGINX_CONTAINER_NAME}
+    image: nginx:alpine
+    ports:
+      - "${NGINX_PUBLIC_PORT}:80"
+    volumes:
+      - ${NGINX_IMAGE_PATH}/images:/usr/share/nginx/html:ro
