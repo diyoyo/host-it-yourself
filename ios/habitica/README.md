@@ -1,7 +1,7 @@
 
 # Habitica-iOS scripts
 
-Scripts under this folder are used to convert the **amazing** (Habitica-iOS' XCode project)[https://github.com/HabitRPG/habitica-ios] to allow for
+Scripts under this folder are used to convert the **amazing** [Habitica-iOS' XCode project](https://github.com/HabitRPG/habitica-ios) to allow for
 self-hosted deployment *without* an paid *Apple Developer* membership.
 
 # Known limitations
