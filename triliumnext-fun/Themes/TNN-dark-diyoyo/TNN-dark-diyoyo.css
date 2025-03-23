@@ -1,0 +1,20 @@
+/*
+This is an adaptation of zadam's old <a> colors (slightly changed) within the latest TNN dark theme.
+
+- author : @diyoyo (https://github.com/diyoyo)
+- publication date : 2025-03-23
+
+*/
+
+a{ 
+    color: rgb(75, 175, 230) !important;
+    text-decoration: none !important;
+}
+
+code{
+    /*border: dashed red !important;*/
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    border-radius: 5px !important;
+}
+
